@@ -1,0 +1,25 @@
+{
+  "name": "lcfirst",
+  "version": "1.0.0",
+  "description": "lowercase first character of a string",
+  "main": "lcfirst.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgduk/lcfirst.git"
+  },
+  "keywords": [
+    "lowercase",
+    "lower",
+    "case",
+    "string"
+  ],
+  "author": "Matt Dolan <matt@dolan.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgduk/lcfirst/issues"
+  },
+  "homepage": "https://github.com/mgduk/lcfirst#readme"
+}
