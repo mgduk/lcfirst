@@ -1,6 +1,6 @@
 {
   "name": "lcfirst",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "lowercase first character of a string",
   "main": "lcfirst.js",
   "scripts": {
