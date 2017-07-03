@@ -6,11 +6,11 @@ Lowercase the first character of a string
 
     lcfirst('Hello World'); // 'hello World'
 
+It won't lowercase an initialism/acronym:
+
+   lcfirst('NASA makes rockets'); // 'NASA makes rockets'
+
 ## License
 
 MIT
-
-## Inspired by (AKA copied from)
-
-https://www.npmjs.com/package/ucfirst
 
